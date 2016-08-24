@@ -1,0 +1,10 @@
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\bin\Debug\DbBrowser.exe.config
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\bin\Debug\DbBrowser.exe
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\bin\Debug\DbBrowser.pdb
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.csprojResolveAssemblyReference.cache
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.MainWindow.resources
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.Properties.Resources.resources
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.csproj.GenerateResource.Cache
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.exe
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.pdb
+c:\users\hilbert\documents\visual studio 2015\Projects\DbBrowser\DbBrowser\obj\Debug\DbBrowser.ConnectWindow.resources
